@@ -1,4 +1,4 @@
-# 📊 Retail Sales Analysis & Forecasting
+# 📊 Retail Sales Forecast
 
 ## Overview
 This project analyzes retail sales data and predicts future sales using machine learning and time series models.
@@ -6,10 +6,10 @@ This project analyzes retail sales data and predicts future sales using machine 
 ## Features
 - Data Cleaning & Exploration
 - Feature Engineering
-- ML Models (Linear, Random Forest, XGBoost)
+- ML Models (Linear Regression, Random Forest, XGBoost)
 - Time Series (ARIMA, SARIMA)
 - 30-Day Sales Forecast
-- Data Visualization
+- Visualization
 
 ## Tools Used
 - Python
@@ -18,6 +18,10 @@ This project analyzes retail sales data and predicts future sales using machine 
 - Scikit-learn
 - Statsmodels
 
+## Output
+- Forecasted sales for next 30 days
+- Graphs and reports
+
 ## How to Run
-1. Open the notebook (.ipynb)
+1. Open the notebook
 2. Run all cells step-by-step
